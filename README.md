@@ -2,7 +2,7 @@
 
 Redirects you to relevant URLs, try:
 
-* [shut.thefuck.app](shut.thefuck.app)
-* [sex.thefuck.app](sex.thefuck.app)
+* [shut.thefuck.app](https://shut.thefuck.app)
+* [sex.thefuck.app](https://sex.thefuck.app)
 
 Lol.
