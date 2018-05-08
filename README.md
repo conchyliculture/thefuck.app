@@ -6,3 +6,7 @@ Redirects you to relevant URLs, try:
 * [sex.thefuck.app](https://sex.thefuck.app)
 
 Lol.
+
+## words.csv
+
+Need to add more relevant URLs there. PR accepted.
